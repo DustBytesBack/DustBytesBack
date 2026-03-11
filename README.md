@@ -18,10 +18,6 @@
 
 ###
 
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-###
-
 <h3 align="left">💻 Languages & Tools</h3>
 
 <div align="left">
@@ -55,6 +51,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DustBytesBack&theme=dracula"/>
+</p>
+
+###
+
+<p align="right">
+  <img height="160" src="rickroll.gif"/><br>
+  📱 <b>Scan Me</b>
 </p>
 
 ###
